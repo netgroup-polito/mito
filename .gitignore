@@ -1,0 +1,9 @@
+/build/
+/target/
+/gen-src/
+/gen-protobuf/
+/bin/
+/log/
+/result.xml
+/testfile/tmp.xml
+.settings
